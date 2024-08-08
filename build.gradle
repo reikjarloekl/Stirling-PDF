@@ -150,7 +150,10 @@ dependencies {
     implementation "com.twelvemonkeys.imageio:imageio-tiff:3.10.1"
     implementation "com.twelvemonkeys.imageio:imageio-webp:3.10.1"
     // implementation "com.twelvemonkeys.imageio:imageio-xwd:3.10.1"
-
+	
+    implementation 'com.github.jai-imageio:jai-imageio-core:1.4.0'
+    implementation 'com.github.jai-imageio:jai-imageio-jpeg2000:1.4.0'
+	
     implementation "commons-io:commons-io:2.16.1"
     implementation "org.springdoc:springdoc-openapi-starter-webmvc-ui:2.2.0"
 
