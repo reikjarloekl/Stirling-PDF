@@ -105,6 +105,18 @@
             "moduleLicenseUrl": "https://api.github.com/licenses/gpl-3.0"
         },
         {
+            "moduleName": "com.github.jai-imageio:jai-imageio-core",
+            "moduleUrl": "https://github.com/jai-imageio/jai-imageio-core",
+            "moduleVersion": "1.4.0",
+            "moduleLicense": "LICENSE.txt"
+        },
+        {
+            "moduleName": "com.github.jai-imageio:jai-imageio-jpeg2000",
+            "moduleUrl": "https://github.com/jai-imageio/jai-imageio-jpeg2000",
+            "moduleVersion": "1.4.0",
+            "moduleLicense": "LICENSE-JJ2000.txt, LICENSE-Sun.txt"
+        },
+        {
             "moduleName": "com.github.stephenc.jcip:jcip-annotations",
             "moduleUrl": "http://stephenc.github.com/jcip-annotations",
             "moduleVersion": "1.0-1",
@@ -487,6 +499,12 @@
             "moduleUrl": "https://pdfbox.apache.org",
             "moduleVersion": "3.0.2",
             "moduleLicense": "Apache-2.0",
+            "moduleLicenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        },
+        {
+            "moduleName": "org.apache.pdfbox:jbig2-imageio",
+            "moduleVersion": "3.0.4",
+            "moduleLicense": "Apache License, Version 2.0",
             "moduleLicenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
         },
         {
